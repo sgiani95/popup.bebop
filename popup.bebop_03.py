@@ -58,4 +58,8 @@ def create_mockup_window(window_title, a1_text, a2a4_text, b1_text, b2_text, b3_
 
 # Example usage of the function with custom text and window title
 # create_mockup_window("#001", " ℹ️", "Press OK to continue...", "Yes", "No", "Cancel")
-create_mockup_window("#002", " ⚠️", "Do you accept all conditions?", "Yes", "No", "100 pages")
+# create_mockup_window("#2番目", " 絵文字", "ロスト・イン・トランスレーション.", "はい", "いいえ", "キャンセル")
+
+
+# create_mockup_window("#002", " ⚠️", "Do you accept all conditions?", "Yes", "No", "100 pages")
+
